@@ -8,3 +8,15 @@ He plans on using these insights to help him decide whether he should expand the
 
 ## Dataset ERD
 ![Capture](https://user-images.githubusercontent.com/77394784/202084644-fbd09066-b8bd-44a2-8ad1-34c1f1b31444.PNG)
+
+## Case Study Questions
+1. What is the total amount each customer spent at the restaurant?
+2. How many days has each customer visited the restaurant?
+3. What was the first item from the menu purchased by each customer?
+What is the most purchased item on the menu and how many times was it purchased by all customers?
+Which item was the most popular for each customer?
+Which item was purchased first by the customer after they became a member?
+Which item was purchased just before the customer became a member?
+What is the total items and amount spent for each member before they became a member?
+If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
+In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
