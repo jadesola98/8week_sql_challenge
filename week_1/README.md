@@ -7,3 +7,4 @@ Danny wants to use the data to answer a few simple questions about his customers
 He plans on using these insights to help him decide whether he should expand the existing customer loyalty program - additionally he needs help to generate some basic datasets so his team can easily inspect the data without needing to use SQL.
 
 ## Dataset ERD
+![image](https://user-images.githubusercontent.com/77394784/202083098-db389f3f-4f88-4797-99f3-df55b72abda2.png)
