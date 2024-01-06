@@ -1,6 +1,3 @@
-# Case Study 1
-#![image](https://user-images.githubusercontent.com/77394784/202082026-a992e9e0-9753-45f0-b4f5-9367375dfc9d.png)
-
 ## Problem Statement
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent, and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers.
 
